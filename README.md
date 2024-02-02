@@ -25,7 +25,7 @@ The position of each subsequent dot in the snake's body is determined by subtrac
 
 
 
-IMAGES FROM THE DEVELOPED SNAKE GAME
+IMAGES FROM THE DEVELOPED SNAKE GAME.
 
 
 ![snake 1](https://github.com/Vedango7/SnakeGame/assets/137282103/32d00950-a321-4b30-ac6b-7ca93670c3f7)
